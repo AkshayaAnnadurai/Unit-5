@@ -1,0 +1,14 @@
+{"products":
+[
+    {"id":2,
+    "name":"p2",
+    "price":200},
+    {"id":3,"name":"p3","price":300},
+    {"id":4,"name":"p1","price":300},
+    {"id":5,"name":"p2","price":100},
+    {"id":6,"name":"p3","price":200}],
+    "users":[
+        {"id":3,"name":"p3","price":300},
+        {"id":4,"name":"p1","price":300},
+        {"id":5,"name":"p2","price":100},
+        {"id":6,"name":"p3","price":200}]}
